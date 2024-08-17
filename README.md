@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @safdarnagrish
-- 👀 I’m interested in Artificial Intelligence, machine Learning and Deep Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+# Hi there, I'm Safdar Hussain! 👋
+
+### About Me
+
+- 👀 I’m deeply interested in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.
+- 🌱 Currently, I’m expanding my knowledge in **Data Science** to deepen my understanding and expertise.
+- 💞️ I’m looking to collaborate on exciting projects related to AI, ML, and data-driven solutions.
+- 📫 You can reach me through the following channels:
+  - **Email**: [your-email@example.com](mailto:safdarnagrish@gmail)
+  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/safdarnagrish)
+  - **GitHub**: [Safdar Nagrish on GitHub](https://github.com/safdarnagrish)
+
+### Let’s Connect!
+
+I'm always open to discussing new ideas, collaborations, or opportunities in the field of AI and Data Science. Feel free to get in touch!
+
 
 <!---
 safdarnagrish/safdarnagrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
