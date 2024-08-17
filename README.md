@@ -6,9 +6,9 @@
 - 🌱 Currently, I’m expanding my knowledge in **Data Science** to deepen my understanding and expertise.
 - 💞️ I’m looking to collaborate on exciting projects related to AI, ML, and data-driven solutions.
 - 📫 You can reach me through the following channels:
-  - **Email**: [your-email@example.com](mailto:safdarnagrish@gmail)
-  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/safdarnagrish)
-  - **GitHub**: [Safdar Nagrish on GitHub](https://github.com/safdarnagrish)
+  - **Email**: [safdarnagrish@gmail.com](mailto:safdarnagrish@gmail)
+  - **LinkedIn**: [Safdarnagrish](https://www.linkedin.com/in/safdarnagrish)
+  - **GitHub**: [Safdarnagrish](https://github.com/safdarnagrish)
 
 ### Let’s Connect!
 
